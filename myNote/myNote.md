@@ -289,7 +289,7 @@ export default {
 </style>
 ```
 
-[](url)
+![](https://github.com/Wolowit/MyNote-VueJS_TaskTracker/blob/main/myNote/Screen%20Shot%202021-06-11%20at%2012.02.55%20PM.png)
 
 ## Tasks.vue and Task.vue
 

@@ -1,6 +1,8 @@
 # MyNote-VueJS_TaskTracker
 
-## my note from [Obsidian](https://obsidian.md/)
+## My note from [Obsidian](https://obsidian.md/)
+
+[My note](https://github.com/Wolowit/MyNote-VueJS_TaskTracker/blob/main/myNote/myNote.md)
 
 ## Project setup
 
