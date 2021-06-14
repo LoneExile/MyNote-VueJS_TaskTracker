@@ -1,19 +1,26 @@
-# vue-crash
+# MyNote-VueJS_TaskTracker
+
+## my note from [Obsidian](https://obsidian.md/)
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
+npm run backend
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
